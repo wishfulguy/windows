@@ -5,7 +5,7 @@ services:
     environment:
       VERSION: "11"
     environment:
-      DISK_SIZE: "125G"
+      DISK_SIZE: "80G"
     environment:
       RAM_SIZE: "8G"
       CPU_CORES: "4"
